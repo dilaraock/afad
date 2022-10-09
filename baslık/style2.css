@@ -1,0 +1,35 @@
+.info-box-main2 {
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    justify-items: center;
+}
+
+.info-box2 {
+    width: 90%;
+    margin: 20px 50px;
+    height: 70px;
+    color: grey;
+    background: white;
+    border-bottom: 3px solid #dc3545 ;
+    box-shadow: 11px 9px 29px -9px rgba(0,0,0,0.57);
+}
+
+.right-info1  {
+    margin-left: 1150px ;
+    margin-bottom: 30px;
+}
+.right-info1 svg {
+    margin-right: 5px;
+}
+
+
+.left-info1 span {
+    color: rgb(88, 87, 87);
+    font-weight: 300;
+}
+
+
+.left-info1 {
+   margin-top: 25px;
+   margin-left: 20px;
+}
